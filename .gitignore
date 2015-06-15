@@ -1,4 +1,5 @@
 #ignore all data files
 *.dat
+*.tex
 #ignore everything in a folder
 results/
